@@ -1,0 +1,38 @@
+.penny{
+    background-color: Brown;
+    border-radius: 100px;
+    width: 40px;
+    height: 30px;
+    text-align: center;
+    padding: 10px;
+}
+.nickel{
+    background-color: silver;
+    border-radius: 100px;
+    width: 40px;
+    height: 30px;
+    text-align: center;
+    padding: 10px;
+}
+.dime{
+    background-color: gray;
+    border-radius: 100px;
+    width: 40px;
+    height: 30px;
+    text-align: center;
+    padding: 10px;
+}
+
+.quarter{
+    background-color: black;
+    border-radius: 100px;
+    width: 40px;
+    height: 30px;
+    text-align: center;
+    padding: 10px;
+
+}
+
+.blueClass{
+    background-color: blue;
+}
